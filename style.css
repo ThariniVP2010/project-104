@@ -1,0 +1,24 @@
+body
+{
+background-color: rgb(196, 255, 206);
+}
+
+#capture_image
+{
+background-color: rgb(255, 255, 145);
+}
+
+#identify_image
+{
+background-color: rgb(153, 235, 255);
+}
+
+#heading
+{
+color: rgb(0, 0, 0);
+}
+
+#div_2
+{
+background-color: rgb(153, 235, 255);
+}
